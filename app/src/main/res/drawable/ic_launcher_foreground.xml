@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Simple game cartridge silhouette -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M36,30 L72,30 L72,36 L76,36 L76,78 L32,78 L32,36 L36,36 Z" />
+    <path
+        android:fillColor="#2E7D32"
+        android:pathData="M40,44 L68,44 L68,62 L40,62 Z" />
+    <path
+        android:fillColor="#2E7D32"
+        android:pathData="M44,68 L64,68 L64,72 L44,72 Z" />
+</vector>

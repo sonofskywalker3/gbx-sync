@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- GBxCart RW v1.4 uses a WCH CH340 USB-serial bridge -->
+    <usb-device vendor-id="6790" product-id="29987" />
+</resources>
